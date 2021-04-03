@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world, I'm TK. 🙋🏾‍♀️ I'm excited to learn Mobile development. 
 
 <!--
 **greent1001/greent1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
